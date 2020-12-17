@@ -1,4 +1,4 @@
-# NSSCapstone
+# Alzheimer's Disease Trends from 1999-2018
 Hello everyone!! 
 
 Here you will find my Capstone project for Nashville Software School on Alzheimer's Disease trends over the past 20 years. I have a personal attachment to this disease due to it being a true fear of mine and having family members that have had dementia in the later years of their lives. 
