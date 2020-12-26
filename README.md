@@ -4,7 +4,7 @@ Hello everyone!!
 Here you will find my Capstone project for Nashville Software School on Alzheimer's Disease trends over the past 20 years. I have a personal attachment to this disease due to it being a true fear of mine and having family members that have had dementia in the later years of their lives. 
 
 This project will be broken down in the following areas: <br>
-	1. Introduction to what Alzheimer's Disease, or AD, is and a brief history. <br> 
+	1. Introduction to what the parts of the brain are, and what they control. <br> 
 	2. How AD affects the brain and cognitive ability. <br>
 	3. Trends overall in the United States from 1999-2018. <br>
 	4. Trends in Tennessee from 1999-2018. <br>
