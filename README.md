@@ -8,10 +8,9 @@ This project will be broken down in the following areas: <br>
 	2. How AD affects the brain and cognitive ability. <br>
 	3. Trends overall in the United States from 1999-2018. <br>
 	4. Trends in Tennessee from 1999-2018. <br>
-	5. Caregiving trends and statistics. <br>
-	6. How can you find help if you or someone you love has AD? <br>
-	7. Resources <br>
-	8. Bibliography and Sources <br>
+	5. How can you find help if you or someone you love has AD? <br>
+	6. Resources <br>
+	7. Bibliography and Sources <br>
 
 I hope you find this information useful and informative. IF you have any questions, please feel free to message me. 
 
