@@ -10,7 +10,6 @@ This project will be broken down in the following areas: <br>
 	4. Trends in Tennessee from 1999-2018. <br>
 	5. How can you find help if you or someone you love has AD? <br>
 	6. Resources <br>
-	7. Bibliography and Sources <br>
 
 I hope you find this information useful and informative. IF you have any questions, please feel free to message me. 
 
