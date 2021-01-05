@@ -13,7 +13,8 @@
 ## General info
 This project was created as my Capstone for Nashville Software School, where I was in Data Analytics Cohort 2. I was drawn to this topic due to a familial connection and a long time fear of losing my mental/cognitive ability. 
 ## Screenshots
-![Example screenshots](./vscode.png)(./powerbi.png) 
+![Example screenshot](./vscode.png)
+![Example Screenshot](./powerbi.png) 
 
 
 ## Technologies
