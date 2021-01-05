@@ -26,12 +26,12 @@ This project was created as my Capstone for Nashville Software School, where I w
 import numpy as np 
 import matplotlib.pyplot as plt 
 import seaborn as sns <br>
-
+<br>
 %matplotlib inline`<br>
-
+<br>
 `white_ad = white_male.merge(white_female,how = 'outer',on = 'State')
 white_ad.head(20)`<br>
-
+<br>
 `aging_data = pd.read_csv('../data/Alzheimer_s_Disease_And_Healthy_Aging_Data_edited.csv')
 cog_dec = pd.read_csv('../data/Alzheimer_s_Disease_and_Healthy_Aging_Indicators__Cognitive_Decline.csv')
 caregiving =  pd.read_csv('../data/Alzheimer_s_Disease_and_Healthy_Aging_Indicators__Caregiving.csv')
@@ -47,7 +47,7 @@ hispanic_female = pd.read_csv('../data/Hispanic, Female, AD by State.csv',skipfo
 multiple_causes = pd.read_csv('../data/Multiple Cause of Death, 1999-2018.csv')
 white_male = pd.read_csv('../data/White, Male, AD by State.csv',skipfooter= 94, engine = 'python')
 white_female = pd.read_csv('../data/White, Female, AD by State.csv',skipfooter = 78, engine = 'python')`<br>
-
+<br>
 ## Features
 * Description of what Alzheimer's Disease is.
 * Visualizations of important statistics 
