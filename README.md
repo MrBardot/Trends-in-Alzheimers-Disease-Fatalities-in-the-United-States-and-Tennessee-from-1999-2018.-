@@ -13,7 +13,7 @@
 ## General info
 This project was created as my Capstone for Nashville Software School, where I was in Data Analytics Cohort 2. I was drawn to this topic due to a familial connection and a long time fear of losing my mental/cognitive ability. 
 ## Screenshots
-![Example screenshot](./Pictures/Screenshots/vscode.png)
+![Example screenshot](vscode.png)
 
 ## Technologies
 * Python - version 3.8.3
