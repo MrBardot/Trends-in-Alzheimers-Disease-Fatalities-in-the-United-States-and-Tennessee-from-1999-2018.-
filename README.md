@@ -25,12 +25,12 @@ This project was created as my Capstone for Nashville Software School, where I w
 `import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
-import seaborn as sns 
+import seaborn as sns <br>
 
-%matplotlib inline`
+%matplotlib inline`<br>
 
 `white_ad = white_male.merge(white_female,how = 'outer',on = 'State')
-white_ad.head(20)`
+white_ad.head(20)`<br>
 
 `aging_data = pd.read_csv('../data/Alzheimer_s_Disease_And_Healthy_Aging_Data_edited.csv')
 cog_dec = pd.read_csv('../data/Alzheimer_s_Disease_and_Healthy_Aging_Indicators__Cognitive_Decline.csv')
@@ -46,16 +46,12 @@ hispanic_male = pd.read_csv('../data/Hispanic, Male, AD by State.csv',skipfooter
 hispanic_female = pd.read_csv('../data/Hispanic, Female, AD by State.csv',skipfooter = 77, engine = 'python')
 multiple_causes = pd.read_csv('../data/Multiple Cause of Death, 1999-2018.csv')
 white_male = pd.read_csv('../data/White, Male, AD by State.csv',skipfooter= 94, engine = 'python')
-white_female = pd.read_csv('../data/White, Female, AD by State.csv',skipfooter = 78, engine = 'python')`
+white_female = pd.read_csv('../data/White, Female, AD by State.csv',skipfooter = 78, engine = 'python')`<br>
 
 ## Features
 * Description of what Alzheimer's Disease is.
 * Visualizations of important statistics 
 * Resources for self or loved ones. 
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
 
 ## Status
 Project is:  _finished_, but there is always more work to be done to cure this disease. 
